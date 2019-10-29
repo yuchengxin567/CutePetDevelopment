@@ -7,4 +7,4 @@ Welcome everyone to use our app. If you encounter a bug during the use or have a
 
 
 
-ycx_836229948@sina.com
+Email:ycx_836229948@sina.com
